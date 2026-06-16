@@ -1,2 +1,2 @@
 # Malls_Information
-Got intel on malls
+This will serve as the main info for the malls page.
